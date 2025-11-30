@@ -1,5 +1,5 @@
-# Data-Analysis
-DATA ANALYSIS ON NETFLIX MOVIES AND TV SHOWS
+# Data-Analysis<br>
+DATA ANALYSIS ON NETFLIX MOVIES AND TV SHOWS<br>
 This repository contains a data analysis of Netflix Movies and TV Shows using a dataset sourced from Kaggle. The analysis is performed using Python in a Jupyter Notebook environment.
 Key Technologies- Python, Pandas, NumPy, Jupyter Notebook
  Dataset
